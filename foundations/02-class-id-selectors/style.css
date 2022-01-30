@@ -1,3 +1,17 @@
 .a-class {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+    background-color: #ffc0cb;
+}
+.cooler-class{
+    font-size: 24px;
+}
+
+#num2id {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#num4id{
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
 }
